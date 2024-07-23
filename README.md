@@ -6,6 +6,9 @@ In this project, I analyzed a Europe Sales records dataset and developed an inte
 
 ![Europe sales records dashboard](https://github.com/user-attachments/assets/31acb058-c896-4e09-8403-97f74ae4d504)
 
+![COUNTRIES DASHBOARD](https://github.com/user-attachments/assets/a12992d9-3acf-45c7-b49d-0fcd0c458560)
+
+
 
 ### TABLE OF CONTENTS
 
